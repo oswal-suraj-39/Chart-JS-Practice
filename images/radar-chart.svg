@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="24px"
+    height="24px" viewBox="0 0 24 24">
+    <path d="M 12 5 L 17 11" fill="none" stroke="#1c4e80" />
+    <path d="M 17 11 L 17 18" fill="none" stroke="#1c4e80" />
+    <path d="M 17 18 L 8 17" fill="none" stroke="#1c4e80" />
+    <path d="M 8 17 L 5 10" fill="none" stroke="#1c4e80" />
+    <path d="M 5 10 L 12 5" fill="none" stroke="#1c4e80" />
+    <path d="M 12 13 L 2 9" fill="none" stroke="#202020" stroke-linecap="round" />
+    <path d="M 12 13 L 12 3" fill="none" stroke="#202020" stroke-linecap="round" />
+    <path d="M 12 13 L 22 9" fill="none" stroke="#202020" stroke-linecap="round" />
+    <path d="M 12 13 L 20 21" fill="none" stroke="#202020" stroke-linecap="round" />
+    <path d="M 12 13 L 4 21" fill="none" stroke="#202020" stroke-linecap="round" />
+</svg>

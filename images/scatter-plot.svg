@@ -1,0 +1,25 @@
+<svg width="800px" height="800px" viewBox="0 -1.5 2253 2253" version="1.1" xmlns="http://www.w3.org/2000/svg"
+    xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/"
+    style="fill-rule: evenodd; stroke-linecap: round; stroke-linejoin: round; clip-rule: evenodd; stroke-miterlimit: 1.5">
+
+    <g>
+
+        <path d="M 289.5 387.5 l -100 -200 l -100 200 l 200 0 Z" style="fill: #202020" />
+
+        <path d="M 1864.5 1962.5 l 200 100 l -200 100 l 0 -200 Z" style="fill: #202020" />
+
+        <path d="M 189.5 347.5 l 0 1715 l 1715 0" style="fill: none; stroke: #202020; stroke-width: 66.7px" />
+
+    </g>
+
+    <circle cx="613.7" cy="1103.3" r="50" style="fill: #1c4e80" />
+
+    <circle cx="849.9" cy="1590" r="50" style="fill: #1c4e80" />
+
+    <circle cx="1094.7" cy="850.6" r="50" style="fill: #1c4e80" />
+
+    <circle cx="1334" cy="1341.6" r="50" style="fill: #1c4e80" />
+    
+    <circle cx="1587.1" cy="1468.9" r="50" style="fill: #1c4e80"/>
+
+</svg>
