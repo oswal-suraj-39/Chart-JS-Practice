@@ -25,7 +25,7 @@ section {
     justify-content: center;
     align-items: center;
     gap: 1rem;
-    width: 32rem;
+    max-width: 32rem;
 }
 
 button {
@@ -52,4 +52,8 @@ button:focus-visible {
 
 button:active {
     transform: scale(1);
+}
+
+a {
+    text-decoration: none;
 }

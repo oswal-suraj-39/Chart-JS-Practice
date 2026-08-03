@@ -1,0 +1,15 @@
+<svg width="32px" height="32px" viewBox="0 -1.5 2253 2253" version="1.1" xmlns="http://www.w3.org/2000/svg"
+    xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/"
+    style="fill-rule:evenodd;clip-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1.5;">
+    
+    <g style="transform: translate(-20px, 100px); stroke:#202020; stroke-width:66.67px;">
+        <rect x="397.831" y="395.833" width="312.5" height="1458.33" style="fill:#1c4e80; " />
+        
+        <rect x="918.664" y="1020.83" width="312.5" height="833.333" style="fill:#ea6a47;" />
+        
+        <rect x="1439.5" y="604.167" width="312.5" height="1250" style="fill:#eee;" />
+    </g>
+    
+    <path d="M189.497,347.5 l0,1715 l1715,-0 l-0, -1715 l-1715, 0" style="fill:none; stroke:#202020; stroke-width:66.67px;" />
+
+</svg>
