@@ -9,7 +9,7 @@ const chart = new Chart(Canvas, {
             data: [0, 10, 5, 9],
             backgroundColor: ["rgb(64, 64, 255)"],
             borderColor: "rgba(64, 64, 255, 0.35)",
-            cubicInterpolationMode: "monotone",
+            tension: 0.4,
             pointHoverRadius: 6,
             pointHitRadius: 3,
         }]
