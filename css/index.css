@@ -16,7 +16,13 @@ body {
 }
 
 header {
-    margin: 2rem 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    background-color: #1c4e80;
+    color: #eeeeee;
+    padding: 1rem 1.5rem;
 }
 
 section {
