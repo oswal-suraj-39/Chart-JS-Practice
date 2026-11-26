@@ -34,6 +34,11 @@ section {
     max-width: 32rem;
 }
 
+a:focus-visible {
+    border-radius: 0.5rem;
+    outline: #1c4e80 auto 1px;
+}
+
 button {
     display: flex;
     align-items: center;
@@ -53,7 +58,7 @@ button:hover {
 }
 
 button:focus-visible {
-     outline: #1c4e80 auto 1px;
+    outline: #1c4e80 auto 1px;
 }
 
 button:active {
