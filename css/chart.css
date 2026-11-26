@@ -44,6 +44,11 @@ canvas {
     border: 1px solid black;
 }
 
+.button-container {
+    display: flex;
+    gap: 1rem;
+}
+
 a:focus-visible {
     outline: none;
 }

@@ -14,11 +14,17 @@
     <header>
         <h1>Pie Chart</h1>
 
-        <a href="../index.html">
-            <button>
-                <img src="/images/arrow-left.svg" alt="Back">
+        <div class="button-container">
+            <a href="../index.html">
+                <button>
+                    <img src="/images/arrow-left.svg" alt="Back">
+                </button>
+            </a>
+
+            <button class="refresh-button">
+                <img src="/images/refresh.svg" alt="Refresh">
             </button>
-        </a>
+        </div>
     </header>
 
     <section class="chart-section">
@@ -30,6 +36,7 @@
 </body>
 <script src="/js/ChartLib/chart.umd.js"></script>
 <script src="/js/ChartLib/chart.umd.min.js"></script>
+<script src="../js/common.js"></script>
 <script src="../js/pie-chart.js"></script>
 
 </html>
